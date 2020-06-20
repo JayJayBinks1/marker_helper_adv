@@ -1,0 +1,56 @@
+[
+  {
+    "name": "PACT",
+    "tasks": {
+      "Individual": {
+        "max_mark": -1
+      },
+      "Questions": {
+        "max_mark": -1
+      }
+    }
+  },
+  {
+    "name": "Investigation",
+    "tasks": {
+      "Aim": {
+        "max_mark": -1
+      },
+      "Choice of method": {
+        "max_mark": -1
+      },
+      "Selection strategy": {
+        "max_mark": -1
+      },
+      "Sample size": {
+        "max_mark": -1
+      },
+      "S/W list": {
+        "max_mark": -1
+      },
+      "Analysis - Data": {
+        "max_mark": -1
+      },
+      "Analysis - Approach": {
+        "max_mark": -1
+      }
+    }
+  },
+  {
+    "name": "UX - Design",
+    "tasks": {
+      "Steps": {
+        "max_mark": -1
+      },
+      "Wireframe - Clarity": {
+        "max_mark": -1
+      },
+      "Wireframe - Annotation": {
+        "max_mark": -1
+      },
+      "Wireframe - Sequence of screens": {
+        "max_mark": -1
+      }
+    }
+  }
+]
