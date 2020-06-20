@@ -110,8 +110,7 @@ def give_mark(task_name: str, max_mark: int) -> str:
         if mark < 0:
             print("\x1b[1;31;40m" + "Please input a valid number above 0." + "\x1b[0m")
         elif 0 < max_mark < mark:
-            print("\x1b[1;31;40m" + f"Please input a valid number less than or equal to tasks[task][\"max_mark\"]."
-                  + "\x1b[0m")
+            print("\x1b[1;31;40m" + f"Please input a valid number less than or equal to {max_mark}." + "\x1b[0m")
         else:
             return f"{task_name} - {mark}"
 
